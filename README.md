@@ -3,11 +3,12 @@
 
 ## 🚀 Actualmente aprendiendo
 - Java  
+- Python
 
 ## 📂 Proyectos
 - [API - REST](https://github.com/Marcos-Ortega/API---Trabajo-Final)  
 - [Aplicación Móvil](https://github.com/LuuAlveal/No_Hackeamos_Ni_La_Puerta)  
-- [Aplicación Móvil (sin finalizar)](https://github.com/Marcos-Ortega/GucciPrimeDespach)  
+- [Aplicación Móvil (en proceso)](https://github.com/Marcos-Ortega/GucciPrimeDespach)  
 
 ## 🌐 Redes
 <a href="https://www.linkedin.com/in/marcos-ortega-276385299/" target="blank">
